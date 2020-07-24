@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.948 sec <<< FAILURE!
+diviserTest(a.CalculetteTest)  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.RuntimeException: Test not implemented
+	at a.CalculetteTest.diviserTest(CalculetteTest.java:18)
+
+produitTest(a.CalculetteTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Test not implemented
+	at a.CalculetteTest.produitTest(CalculetteTest.java:23)
+
+soustraireTest(a.CalculetteTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Test not implemented
+	at a.CalculetteTest.soustraireTest(CalculetteTest.java:28)
+

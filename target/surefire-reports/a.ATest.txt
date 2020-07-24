@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: a.ATest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.937 sec <<< FAILURE!
+diviserTest(a.ATest)  Time elapsed: 0.011 sec  <<< FAILURE!
+java.lang.RuntimeException: Test not implemented
+	at a.ATest.diviserTest(ATest.java:15)
+
+produitTest(a.ATest)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.RuntimeException: Test not implemented
+	at a.ATest.produitTest(ATest.java:20)
+
+soustraireTest(a.ATest)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.RuntimeException: Test not implemented
+	at a.ATest.soustraireTest(ATest.java:25)
+
