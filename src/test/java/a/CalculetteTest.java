@@ -15,16 +15,16 @@ public class CalculetteTest {
 
   @Test
   public void diviserTest() {
-    throw new RuntimeException("Test not implemented");
+    Assert.assertEquals(calc.soustraire(2, 1),1.0);
   }
 
   @Test
   public void produitTest() {
-    throw new RuntimeException("Test not implemented");
+    Assert.assertEquals(calc.produit(1, 1),1.0);
   }
 
   @Test
   public void soustraireTest() {
-    throw new RuntimeException("Test not implemented");
+   Assert.assertEquals(calc.diviser(1, 1),1.0);
   }
 }
